@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hanaa07
 - 👀 I’m interested in web development and game development
-- 🌱 I’m currently learning PHP, Python and oriented object programming
+- 🌱 I’m currently developing a MERN stack app
 - 💞️ I’m looking to collaborate on game development
 - 📫 How to reach me : elyahanaa@gmail.com
 
