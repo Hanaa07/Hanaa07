@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Hanaa07
-- 👀 I’m interested in web development and game development
-- 🌱 I’m currently developing a MERN stack app
-- 💞️ I’m looking to collaborate on game development
+- 👀 I’m interested in DevOps and Cloud Computing
+- 💞️ I’m looking to collaborate on DevOps Projects
 - 📫 How to reach me : elyahanaa@gmail.com
 
 <!---
