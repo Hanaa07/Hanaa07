@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Hanaa07
-- 👀 I’m interested in DevOps and Cloud Computing
-- 💞️ I’m looking to collaborate on DevOps Projects
+- 👀 I’m a Software Engineering Student with a focus on Computer Science Methods Applied for Enterprise Management.
 - 📫 How to reach me : elyahanaa@gmail.com
 
 <!---
